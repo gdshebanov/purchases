@@ -1,0 +1,5 @@
+export { airplane } from './airplane'
+export { cog } from './cog'
+export { heart } from './heart'
+export { star } from './star'
+export { plus } from './plus'
